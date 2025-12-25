@@ -1,0 +1,7 @@
+project_id = "ghboctzofgroidfbzeti"
+
+[functions.aggregate-m3u]
+verify_jwt = false
+
+[functions.verify-source-password]
+verify_jwt = false
